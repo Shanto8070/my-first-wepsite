@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main-container{background-color: rgb(41, 37, 37);
+    list-style:none;
+    padding: 5px;
+    display: flex;align-items: center;
+    justify-content:space-around;
+    color: aliceblue;
+ 
+   
+
+}
+.logo{
+   
+
+}
+.man{
+    width: 200px;
+}
+.manus{
+    margin-right: 10px;
+    text-transform: capitalize;
+}
+
+.manu{
+    display: flex;
+    
+   
+}
